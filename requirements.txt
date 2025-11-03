@@ -1,0 +1,6 @@
+# Dependencias necesarias para Foundry_AI.py
+# Ajusta las versiones si lo deseas (ej: azure-identity==1.15.0)
+azure-identity
+azure-ai-projects
+azure-ai-agents
+requests
