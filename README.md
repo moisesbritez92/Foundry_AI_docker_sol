@@ -222,4 +222,4 @@ docker run --rm --env-file .env foundry-ai
 
 ## Autor
 
-Configuración Docker para Azure AI Foundry Agent - Proyecto Cloud Computing
+MADI - M.Britez - Proyecto Cloud Computing
